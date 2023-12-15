@@ -1,0 +1,7 @@
+C:\Mphasis\Simplilearn-P3\Day-7\Assignment-7\Assignment-7\bin\Debug\Assignment-7.exe.config
+C:\Mphasis\Simplilearn-P3\Day-7\Assignment-7\Assignment-7\bin\Debug\Assignment-7.exe
+C:\Mphasis\Simplilearn-P3\Day-7\Assignment-7\Assignment-7\bin\Debug\Assignment-7.pdb
+C:\Mphasis\Simplilearn-P3\Day-7\Assignment-7\Assignment-7\obj\Debug\Assignment-7.csproj.AssemblyReference.cache
+C:\Mphasis\Simplilearn-P3\Day-7\Assignment-7\Assignment-7\obj\Debug\Assignment-7.csproj.CoreCompileInputs.cache
+C:\Mphasis\Simplilearn-P3\Day-7\Assignment-7\Assignment-7\obj\Debug\Assignment-7.exe
+C:\Mphasis\Simplilearn-P3\Day-7\Assignment-7\Assignment-7\obj\Debug\Assignment-7.pdb
